@@ -1,3 +1,3 @@
 # SocialGen
 socialgen.com.au
-This is the readme file for socialgen.com.au
+This is the readme for socialgen.com.au
